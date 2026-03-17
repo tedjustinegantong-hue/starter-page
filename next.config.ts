@@ -8,11 +8,12 @@ const nextConfig: NextConfig = {
         hostname: "ik.imagekit.io",
         protocol: "https",
       },
+      {
+        hostname: "upload.wikimedia.org",
+        protocol: "https",
+      },
     ],
   },
 };
 
 export default nextConfig;
-
-
-

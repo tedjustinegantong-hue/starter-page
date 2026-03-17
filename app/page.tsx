@@ -15,7 +15,7 @@ export default function Home() {
      <Features/>
      <IntegrationsSection />
      <StatsSection /> 
-     <TeamSection />
+     {/* <TeamSection /> */}
      <FAQsThree />
      <FooterSection />
 </div>
