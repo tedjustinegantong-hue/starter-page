@@ -102,6 +102,8 @@ export const HeroHeader = () => {
                                         <span>Get Started</span>
                                     </Link>
                                 </Button>
+                                import ThemeToggleButton from './ThemeToggleButton';
+                                
                             </div>
                         </div>
                     </div>
